@@ -13,6 +13,6 @@ To accurately access the level of protection the security features provide to th
 As of today the primary objectives of the PMU is to accurately transfer bitstream data to the core and protect the IP that lies within a bitstream using AES.
 The final version of the PMU will resemble a RISC-V core that incorporates all the features of the previous PMU versions as well as post fabrication feature implementation and programming of multiple FPGA configuration chains.
 
-<p>
-  <img src="docs/images/Screen Shot 2022-06-08 at 6.35.23 PM.png">
+<p align="center">
+  <img src="docs/images/Caravel_PMU_FPGA.png" width=60%>
 </p>
